@@ -1,3 +1,13 @@
 # sql-md
 
-Notes pris en apprenant SQL sur pluralsight
+Notes pris en apprenant SQL sur [Pluralsight](https://www.pluralsight.com/), cours __Introduction to SQL__ par __Jon Flanders__
+
+- [x] Course overview (1m 30s)
+- [x] Introduction (11m 36s)
+- [x] Understanding the basic SQL Syntax (13m 1s)
+- [x] Querying data with the SELECT statement (25m 3s)
+- [ ] Filtering resulsts with the WHERE clause (36m 19s)
+- [ ] Shaping Results with ORDER BY and GROUP BY (27m 8s)
+- [ ] Matching Different Data Tables with JOINs (18m 58s)
+- [ ] Adding, Changing and Removing Data (20m 33s)
+- [ ] Creating Database Tables (28m 12s)
