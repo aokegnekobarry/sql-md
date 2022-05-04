@@ -1,4 +1,4 @@
-# sql-md
+# sql-notes
 
 Notes pris en apprenant SQL sur [Pluralsight](https://www.pluralsight.com/), cours __Introduction to SQL__ par __Jon Flanders__
 
