@@ -1,6 +1,6 @@
 # sql-notes
 
-Notes pris en apprenant SQL sur <a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>, cours __Introduction to SQL__ par __Jon Flanders__
+Notes prises en apprenant SQL sur [Pluralsight](https://www.pluralsight.com/), cours __Introduction to SQL__ par __Jon Flanders__
 
 - [x] Course overview (1m 30s)
 - [x] Introduction (11m 36s)
