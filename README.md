@@ -7,7 +7,7 @@ Notes prises en apprenant SQL sur [Pluralsight](https://www.pluralsight.com/), c
 - [x] Understanding the basic SQL Syntax (13m 1s)
 - [x] Querying data with the SELECT statement (25m 3s)
 - [x] Filtering resulsts with the WHERE clause (36m 19s) 
-- [ ] Shaping Results with ORDER BY and GROUP BY (27m 8s)
+- [x] Shaping Results with ORDER BY and GROUP BY (27m 8s)
 - [ ] Matching Different Data Tables with JOINs (18m 58s)
 - [ ] Adding, Changing and Removing Data (20m 33s)
 - [ ] Creating Database Tables (28m 12s)
